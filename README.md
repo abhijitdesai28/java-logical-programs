@@ -1,2 +1,2 @@
 # java-logical-programs
-**This repository contains Java Logical Programs**
+This repository contains **Java Logical Programs**
