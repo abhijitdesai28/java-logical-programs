@@ -1,4 +1,5 @@
 /**
+ * QUE-8
  * WPT find the largest number from given 3 variable
  */
 public class Question8 {
