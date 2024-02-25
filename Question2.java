@@ -1,7 +1,8 @@
 /**
+ * QUE-2
  * Write java program which contain Increment Operations & Print Operation
  */
-public class IncrementExample {
+public class Question2 {
     public static void main(String[] args) {
         int a=10;
         a++;//10(11)

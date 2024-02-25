@@ -1,7 +1,8 @@
 /**
+ * QUE-3
  *Write java program which contain Decrement Operation Example
  */
-public class DecrementExample {
+public class Question3 {
     public static void main(String[] args) {
         int a=5;
         a++;//5(6)
