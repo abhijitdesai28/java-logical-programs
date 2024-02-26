@@ -22,6 +22,16 @@ QUE-10 WPT find the smallest number from given 3 value using conditional operato
 
 QUE-11 WPT find the smallest number from given 4 value using conditional operator
 
-QUE-11 WPT check the character is vowel or consonant using conditional operator ex-vowel=A,E,I,O,U consonant=Except vowel
+QUE-12 WPT check the character is vowel or consonant using conditional operator ex-vowel=A,E,I,O,U consonant=Except vowel
+
+QUE-13 WPD given number is Even or Odd by using if else
+
+QUE-14 WPD given number is Positive or Negative using if elseif
+
+QUE-15 WPD given no is positive even,negative even,positive odd,negative odd using if elseif
+
+QUE-16 WPD given no is positive even,negative even,positive odd,negative odd using NESTED if else
+
+
 
 ```
