@@ -32,6 +32,16 @@ QUE-15 WPD given no is positive even,negative even,positive odd,negative odd usi
 
 QUE-16 WPD given no is positive even,negative even,positive odd,negative odd using NESTED if else
 
+QUE-17 WPD Vowel/ Consonant using Switch case
+
+QUE-18 WPD number from 1 to 10 using while loop
+
+QUE-19 WPD print the value from -20 to 20 using while loop
+
+QUE-20 WPD sum of even number from 60 to 90 using while loop
+
+QUE-21 WPD find the sum of odd number and product of even number from 15 to 50 using while loop
+
 
 
 ```
