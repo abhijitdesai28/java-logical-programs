@@ -74,8 +74,22 @@ QUE-28 WPD separate the value/number .i.e-1234 using while loop
 
  QUE-31 WPD number between starting value and ending value using while loop
 
+ QUE-32 WPD enter the number-1234 sum even number from given no and product of odd number from given number and do
+    addition of even noo and odd no
 
+QUE-33 WPD table from user given number
 
+QUE-34 WPD find sum of number from user given range and check sum is even or odd if it is even print the table
+
+QUE-35 WPD table from 1 to user given  number
+
+QUE-36 WPD swapping of two number
+
+QUE-37 WPD reverse a number -1234>4321
+
+QUE-38 WPD check whether the given number is palindrome or not
+
+QUE-39 find the power of the number
 
 
 
