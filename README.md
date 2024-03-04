@@ -91,6 +91,48 @@ QUE-38 WPD check whether the given number is palindrome or not
 
 QUE-39 find the power of the number
 
+QUE-40 WAP to display following pattern
+              #####
+              #####
+              #####
+              #####
+              #####
+
+QUE-41 WAP to display following pattern
+               *****
+               *****
+               *****
+               *****
+               *****
+
+QUE-42 WAP to display following pattern
+               12345
+               12345
+               12345
+               12345
+               12345
+
+QUE-43 WAP to display following pattern
+               54321
+               54321
+               54321
+               54321
+               54321
+
+QUE-44 WAP to display following pattern
+               ABCDE
+               ABCDE
+               ABCDE
+               ABCDE
+               ABCDE
+ 
+ QUE-44 WAP to display following pattern
+               AAAAA
+               BBBBB
+               CCCCC
+               DDDDD
+               EEEEE
+
 
 
 
