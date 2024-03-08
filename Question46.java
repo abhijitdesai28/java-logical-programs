@@ -1,18 +1,19 @@
 /**
- * QUE-45
+ * QUE-46
  * WAP to display following pattern
- *              AAAAA
- *              BBBBB
- *              CCCCC
- *              DDDDD
  *              EEEEE
- */public class Question45 {
+ *              DDDDD
+ *              CCCCC
+ *              BBBBB
+ *              AAAAA
+ */public class Question46 {
     public static void main(String[] args) {
-        for(char i='A';i<='E';i++){
-            for (char j='A';j<='E';j++){
+        for(char i='E';i>='A';i--){
+            for (char j='E';j>='A';j--){
                 System.out.print(i);
             }
             System.out.println();
         }
+
     }
 }

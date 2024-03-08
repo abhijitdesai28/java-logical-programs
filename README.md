@@ -133,6 +133,41 @@ QUE-44 WAP to display following pattern
                DDDDD
                EEEEE
 
+ QUE-45 WAP to display following pattern
+               AAAAA
+               BBBBB
+               CCCCC
+               DDDDD
+               EEEEE
+
+ QUE-46 WAP to display following pattern
+               EEEEE
+               DDDDD
+               CCCCC
+               BBBBB
+               AAAAA
+
+ QUE-47 WAP to display following pattern
+               EDCBA
+               EDCBA
+               EDCBA
+               EDCBA
+               EDCBA
+
+ QUE-48 WAP to display following pattern
+               *
+               **
+               ***
+               ****
+               *****
+
+ QUE-49 WAP to display following pattern
+               1
+               12
+               123
+               1234
+               12345
+
 
 
 
