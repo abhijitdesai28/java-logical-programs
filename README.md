@@ -168,6 +168,13 @@ QUE-44 WAP to display following pattern
                1234
                12345
 
+ QUE-50 WAP to display following pattern
+               1
+               22
+               333
+               4444
+               55555
+
 
 
 
