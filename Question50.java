@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * QUE-49
+ * QUE-50
  * WAP to display following pattern
  *              1
  *              22

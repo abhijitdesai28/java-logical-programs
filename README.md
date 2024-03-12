@@ -174,6 +174,13 @@ QUE-44 WAP to display following pattern
                333
                4444
                55555
+               
+ QUE-51 WAP to display following pattern
+               A
+               BB
+               CCC
+               DDDD
+               EEEEE
 
 
 
