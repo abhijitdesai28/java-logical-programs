@@ -181,6 +181,20 @@ QUE-44 WAP to display following pattern
                CCC
                DDDD
                EEEEE
+               
+ QUE-52 WAP to display following pattern
+               A
+               AB
+               ABC
+               ABCD
+               ABCDE
+               
+ QUE-53 WAP to display following pattern
+               0
+               01
+               012
+               0123
+               01234
 
 
 
