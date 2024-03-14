@@ -195,6 +195,20 @@ QUE-44 WAP to display following pattern
                012
                0123
                01234
+               
+ QUE-54 WAP to display following pattern
+               ******
+               *****
+               ***
+               **
+               *
+               
+ QUE-55 WAP to display following pattern
+               11111
+               2222
+               333
+               44
+               5
 
 
 
