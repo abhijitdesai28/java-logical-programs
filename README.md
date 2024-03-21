@@ -224,6 +224,21 @@ QUE-44 WAP to display following pattern
             1111
            11111   
 
+QUE-58 WAP to display following pattern
+               1
+              22
+             333
+            4444
+           55555   
+
+QUE-59 WAP to display following pattern
+               1
+              12
+             123
+            1234
+           12345   
+
+
 
 
 
